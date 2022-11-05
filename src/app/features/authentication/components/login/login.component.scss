@@ -1,0 +1,17 @@
+:host {
+    border-radius: 6%;
+    border: solid 2px rgb(206, 206, 206);
+    padding: 40px 20px;
+    display: flex;
+    min-height: 300px;
+}
+
+mat-form-field {
+    width: 100%;
+}
+
+.actions {
+    display: flex;
+    justify-content: center;
+    margin-top: 55px;
+}
